@@ -1,14 +1,15 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
     margin: 0;
-    background-color: rgb(99, 128, 99);
+    background-color: #f3eadb;
     font-family: "Montserrat", sans-serif;
-    color: #222;
+    color: #33241c;
 }
 
 h1 {
-    color: crimson;
+    color: #e0a45a;
     font-size: 3em;
 }
 
@@ -17,7 +18,7 @@ h2 {
 }
 
 p {
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 header p {
@@ -28,9 +29,8 @@ header p {
 header {
     padding: 40px;
     text-align: center;
-    background-color: #222;
-    color: ghostwhite;
-    
+    background-color: #33241c;
+    color: #fff8ed;
 }
 
 main {
@@ -39,12 +39,22 @@ main {
 }
 
 section {
-    background-color: ghostwhite;
+    background-color: #fffaf2;
     padding: 20px;
     margin-bottom: 20px;
+}
+
+.como {
+    background-color: #e7d4b5;
+}
+
+#comoFunciona {
+    color: #000000;
 }
 
 footer {
     padding: 20px;
     text-align: center;
+    background-color: #33241c;
+    color: #fff8ed;
 }
