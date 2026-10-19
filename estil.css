@@ -8,6 +8,19 @@ body {
     color: #33241c;
 }
 
+nav{
+    background-color: #e0a45a;
+    text-align: center;
+    padding: 16px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #33241c;
+    margin: 16px;
+    font-weight: 800;
+}
+
 h1 {
     color: #e0a45a;
     font-size: 3em;
